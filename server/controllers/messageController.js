@@ -36,4 +36,4 @@ module.exports.addMessage = async (req, res, next) => {
   } catch (ex) {
     next(ex);
   }
-};
+}
